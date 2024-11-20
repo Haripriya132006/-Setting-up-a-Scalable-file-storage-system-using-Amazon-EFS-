@@ -72,10 +72,11 @@ cat file  # Verify shared access by reading content created in Instance 1
 ![ec20](https://github.com/user-attachments/assets/b9f9af9d-9d66-46fd-9c0c-2344c807e401)
 
 ### The creation of a file on Instance 1.
-![ec21](https://github.com/user-attachments/assets/6a2dc41d-04d5-4ed0-a5fe-3ec978530201)
+![Screenshot 2024-11-20 140004](https://github.com/user-attachments/assets/a833ce93-974a-49cf-8fdd-948941477eb6)
+
 
 ### The display of that file’s contents on Instance 2 to verify shared access
-![ec22](https://github.com/user-attachments/assets/f6f4d03c-6ddf-4490-a79e-faf3f033c9f2)
+![Screenshot 2024-11-20 140023](https://github.com/user-attachments/assets/c31e323d-2485-4781-a744-9bfff9c80e9f)
 
 ## RESULT :
 Successfully set up a scalable file storage system using Amazon EFS shared between two Linux EC2 instances in different availability zones, enabling consistent data sharing.
